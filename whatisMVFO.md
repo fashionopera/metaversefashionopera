@@ -28,6 +28,7 @@ Gemma A. Williams是一位才华横溢的作家和出色的策展人，对中国
 
 
 ### Alastair Write
+Alastair White (b.1988) is a Scottish composer and writer. His work is characterized by a lyrical complexity that draws influence from technology, science, politics, and materialism, and has been described as "a whole exciting new genre of art" (BBC Radio 3), “spellbinding” (Boulezian), "perfect" (Vogue Italia), "genuinely original" (TEMPO), “highly poetic...excellent” (BBC Music Magazine), "deftly manic" (American Record Guide) "passionately atonal" (Gramophone) and "the height of compositional magnificence" (Fanfare).
 
 ### Roy Zou 
 Roy Zou Owned a Master degree on Control Engineering, founder of Gödel Labs and Metaverse Labs, Leader of Dragon City, Decentraland.  
