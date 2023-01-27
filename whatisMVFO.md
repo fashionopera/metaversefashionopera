@@ -19,6 +19,19 @@ The methodology behind these, proposed by Alastair White in a recent PhD as well
 [Excerpts from the Theory of Fashion](https://github.com/fashionopera/fashionopera/blob/main/Excerpts%20from%20the%20Theory%20of%20Fashion%20Opera.pdf).
 
 
+## #CAPITAL
+METAVERSE FASHION OPERA FOR MVFW23
+
+Where: Dragon City, Decentraland, The Metaverse
+When: 28th March 2023
+For Metaverse Fashion Week 2023, the immersive, reality-bending imagination of China’s first metaverse platform Dragon City is to host Alastair White’s latest fashion opera (“a whole exciting new genre of art” — BBC Radio 3): #CAPITAL.
+Led by the fashion week’s ambassador, Gemma A. Williams, and Dragon City’s Roy Zou, a collective of artists and designers will collaborate to excavate the history of the metaverse, telling its story from the very beginning of the human experience to its realization in MVFW23.
+#CAPITAL is a tale of dematerialization and symbolism: from the first time someone exchanged a token for an object or a symbol — a word — for a being in the world — all the way through gold bars and bank notes, or the virtual reality of art— to bitcoin, avatars and Dragon City itself. It is the story of becoming something else — where everything is always possible.
+The work, scored for soprano and drum machine, is performed by the award-winning Kelly Poukens (“a soprano in a thousand” — Klassiek Centraal).
+It features — and is inspired by — the designs of Chenpeng, a brand that sees no boundary between the possible and the impossible, and which has been characterized as both “anti-tradition and deviant” (Antidote magazine). Danced and choreographed by Zara Sands, the piece will be performed in a specially designed “fashion opera house” within Dragon City.
+
+Fashion Opera House
+
 ## Built with ❤️ by a talented team:
 
 ### Gemma Williams
